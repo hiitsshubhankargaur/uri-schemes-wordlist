@@ -174,6 +174,7 @@ mumble
 mupdate
 mvn
 myim
+netdoc
 news
 news&#58;
 nfs
