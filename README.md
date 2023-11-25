@@ -1,5 +1,5 @@
 
-# 🐞 Bug Bounty URI Schemes
+# 🐞 URI Schemes
 
 This repository serves as a comprehensive collection of various URI schemes encountered on the web. It aims to provide valuable information for bug bounty researchers and security enthusiasts.
 
